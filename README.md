@@ -1,5 +1,7 @@
 # ICJ Bootstrap Template
 
+Meredith Roberts started this Bootstrap practice on March 5. 2024.
+
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
 
 It uses Bootstrap 5 and a Gulp setup to support a development environment with Sass and image management.
